@@ -1,0 +1,11 @@
+BasedOnStyle: Google
+
+Language: Cpp
+Standard: Latest
+
+NamespaceIndentation: All
+FixNamespaceComments: false
+
+AccessModifierOffset: -2
+
+DerivePointerAlignment: false
